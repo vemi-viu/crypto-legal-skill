@@ -48,13 +48,13 @@ The `emerging-markets.md` file covers:
 
 ```bash
 # One-line install (adds to your Claude Code skill directory)
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/crypto-legal-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/vemi-viu/crypto-legal-skill/main/install.sh | bash
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-legal-skill
+git clone https://github.com/vemi-viu/crypto-legal-skill
 cp -r crypto-legal-skill/skill ~/.claude/skills/crypto-legal/
 ```
 
